@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dugene.github.io/sitemap.txt
